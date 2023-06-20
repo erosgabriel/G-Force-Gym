@@ -7,7 +7,7 @@ nav{
 	position: fixed;
 }
 .navbar{
-	background-color: rgb(255,255,255,0.75);
+	background-color: black;
 }
 html, body, #home{
 	height: 100%;
@@ -16,5 +16,5 @@ html, body, #home{
 /*Font*/
 @font-face{
 	font-family: "Global";
-	src: url(../fontes/Exima-geometric.ttf);
+	src: url(../font/Exima-geometric.ttf);
 }
