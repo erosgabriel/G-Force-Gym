@@ -9,6 +9,15 @@ nav{
 .navbar{
 	background-color: black;
 }
+.navbar h4{
+	color: white; 
+	margin-left: 20px;
+	margin-top: 70px;
+	float: right;
+}
+.navbar a{
+	margin-left: -30px;
+}
 html, body, #home{
 	height: 100%;
 	font-family: "Global", Helvetica, Arial, sans-serif;
