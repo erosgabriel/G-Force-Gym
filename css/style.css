@@ -20,8 +20,12 @@ nav{
 	margin-top: 70px;
 	float: right;
 }
-.navbar a{
-	margin-left: -30px;
+.navlinks{
+	margin-left: 80px;
+	margin-top: 30px;
+}
+.navlinks a{
+	margin-left: 30px;
 }
 html, body, #home{
 	height: 100%;
